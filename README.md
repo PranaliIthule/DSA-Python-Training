@@ -13,17 +13,16 @@ Prepare for placements and coding interviews
 
 
 📚 Topics Covered
-🔹 Day-wise Progress:
-Day 1: Arrays Basics (Traversal, Reverse, Max Element)
-Day 2: Strings (Palindrome, Reversal)
-Day 3: Recursion Basics
-Day 4: Stack Implementation
-Day 5: Queue Basics
-Day 6: Searching Algorithms (Linear, Binary Search)
-Day 7: Sorting Algorithms (Bubble, Selection, Insertion)
-Day 8: Linked List Basics
-Day 9: Practice Problems
-Day 10: Revision + Mixed Problems
+ 1:Arrays Basics (Traversal, Reverse, Max Element)
+ 2: Strings (Palindrome, Reversal)
+ 3: Recursion Basics
+ 4: Stack Implementation
+ 5: Queue Basics
+ 6: Searching Algorithms (Linear, Binary Search)
+ 7: Sorting Algorithms (Bubble, Selection, Insertion)
+ 8: Linked List Basics
+ 9: Practice Problems
+ 10: Revision + Mixed Problems
 
 
 🛠️ Tools Used
